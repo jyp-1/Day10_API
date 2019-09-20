@@ -31,7 +31,7 @@ public class Test2 {
 		for (int i = 0; i < jumin.length(); i++) { 
 			String a = jumin.substring(i, i + 1);  //주민등록번호의 길이만큼 하나씩 분리
 			jg[i]=Integer.parseInt(a);			   //배열->숫자
-			System.out.println(a);
+			System.out.println("집에서 작업");
 		}
 		
 		
